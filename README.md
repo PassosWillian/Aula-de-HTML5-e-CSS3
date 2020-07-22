@@ -1,8 +1,8 @@
-# Aula de HTML5 e CSS3
-
+# Aula de HTML5 e CSS3 com a DIO
+---
 ## Minha primeira página feita com Html5 e Css3, que foi criada nas aulas da Digital Innovation.
 
-Conteúdos aprendidos e aplicados na página
+Conteúdos aprendidos e aplicados na página:
 
 - Introdução ao HTML5
 - As principais tags HTML5 para iniciar um projeto
