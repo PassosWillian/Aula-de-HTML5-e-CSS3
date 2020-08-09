@@ -1,18 +1,32 @@
 body {
   background-color: rgb(125, 233, 233);
-  margin-left: 100px;
+  margin-left: 300px;
   margin-right: 100px;
 }
 
 header {
   margin-top: 50px;
 }
+
+.menu li {
+  color: bisque;
+}
+
+.menu li a {
+  color: bisque;
+  transition: 0.8s;
+}
+.menu li a:hover {
+  color: rgb(71, 139, 241);
+  margin: right 30px;
+}
 h1 {
-  color: aliceblue;
-  font-family: fantasy;
+  color: bisque;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 h2 {
   font-family: fantasy;
+  color: rgb(71, 139, 241);
 }
 p {
   font-size: 18px;
@@ -20,7 +34,14 @@ p {
 
 .img_padrao {
   width: 300px;
+  height: 250px;
   margin-bottom: 020px;
+}
+
+.parceiros {
+  display: flex;
+  justify-content: left;
+  margin-right: 30px;
 }
 
 .logo_padrao {
